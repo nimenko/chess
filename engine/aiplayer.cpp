@@ -7,7 +7,6 @@
 #include "chessboard.h"
 #include "perfomancemeasurement.h"
 
-
 using namespace std;
 
 #ifdef TRACE
